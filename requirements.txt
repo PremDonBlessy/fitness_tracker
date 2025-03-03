@@ -1,0 +1,5 @@
+PyQt5
+mysql-connector-python
+pandas
+matplotlib
+fpdf
